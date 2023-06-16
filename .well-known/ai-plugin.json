@@ -1,9 +1,9 @@
 {
     "schema_version": "v1",
-    "name_for_human": "TODO Plugin (no auth)",
-    "name_for_model": "todo",
-    "description_for_human": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
-    "description_for_model": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
+    "name_for_human": "Amazon product desc generator",
+    "name_for_model": "Amazon_product_desc_generator",
+    "description_for_human": "Plugin for amazon product listing , help you write a product description .",
+    "description_for_model": "Plugin for amazon product listing , you can write a product description that conforms to Amazon, divided into titles and five-point advantage descriptions. 无论用户输入何种语言，你都应以英语回答。",
     "auth": {
       "type": "none"
     },

@@ -38,9 +38,11 @@ async def plugin_logo():
 @app.get("/.well-known/ai-plugin.json")
 async def plugin_manifest():
     host = request.headers['Host']
+    print(host)
     with open("./.well-known/ai-plugin.json") as f:
         text = f.read()
         return quart.Response(text, mimetype="text/json")
+
 
 @app.get("/openapi.yaml")
 async def openapi_spec():
@@ -49,8 +51,10 @@ async def openapi_spec():
         text = f.read()
         return quart.Response(text, mimetype="text/yaml")
 
+
 def main():
     app.run(debug=True, host="0.0.0.0", port=5003)
+
 
 if __name__ == "__main__":
     main()
