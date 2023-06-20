@@ -52,9 +52,19 @@ async def openapi_spec():
         return quart.Response(text, mimetype="text/yaml")
 
 
+@app.get("/legal")
+async def legal_content():
+    with open("legal.txt") as f:
+        text = f.read()
+        return quart.Response(text, mimetype="text/html")
+
+
 def main():
     app.run(debug=True, host="0.0.0.0", port=5003)
 
 
-if __name__ == "__main__":
-    main()
+#  nohup hypercorn --certfile certs/turboooo.com.pem --keyfile certs/turboooo.com.key --bind 0.0.0.0:443 --insecure-bind 0.0.0.0:80 main:app &
+#  hypercorn main:app
+
+# if __name__ == "__main__":
+#     main()
