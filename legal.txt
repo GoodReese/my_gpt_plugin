@@ -1,55 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>ChatGPT 插件用户使用协议</title>
+     <meta charset="UTF-8">
+     <title>ChatGPT Plugin User Agreement</title>
 </head>
 <body>
-    <h1>ChatGPT 插件用户使用协议</h1>
-    <p><strong>最后更新日期：2023年6月20日</strong></p>
+     <h1>ChatGPT Plugin User Agreement</h1>
+     <p><strong>Date last updated: June 20, 2023</strong></p>
 
-    <p>欢迎使用ChatGPT插件！</p>
-    
-    <p>在使用ChatGPT插件之前，请仔细阅读本用户使用协议，其中详细说明了你与我们的权利和义务。通过安装、使用或访问我们的ChatGPT插件，即表示你接受并同意遵守本协议的所有条件和条款。如果你不同意本协议的任何部分，你应立即停止使用此插件。</p>
-    
-    <h2>1. 授权</h2>
+     <p>Welcome to ChatGPT plugin! </p>
 
-    <p>我们授予你一个有限的、非独家的、不可转让的许可，以安装和使用此插件，仅用于个人非商业用途。本协议禁止你以任何其他方式使用或复制插件，除非我们在此协议中明确许可。</p>
+     <p>Before using the ChatGPT plug-in, please read this User Agreement carefully, which details your rights and obligations with us. By installing, using or accessing our ChatGPT plugin, you accept and agree to abide by all the terms and conditions of this agreement. If you disagree with any part of this agreement, you should stop using this plugin immediately. </p>
 
-    <h2>2. 用户行为</h2>
+     <h2>1. Authorization</h2>
 
-    <p>你同意，你不会使用此插件进行任何非法活动，或者以任何方式损害、滥用、恶意攻击或破坏插件或我们的网络和服务。你不得利用插件进行任何形式的骚扰、侮辱或威胁他人。</p>
+     <p>We grant you a limited, non-exclusive, non-transferable license to install and use this plugin for personal, non-commercial use only. This agreement prohibits you from using or copying the Plugins in any other way, except as expressly permitted by us in this agreement. </p>
 
-    <h2>3. 知识产权</h2>
+     <h2>2. User Behavior</h2>
 
-    <p>ChatGPT插件由我们拥有并保留一切权利。除非本协议中明确规定，否则你不得复制、修改、分发、销售或租赁我们的服务或软件，也不得进行逆向工程或尝试提取插件的源代码。</p>
+     <p>You agree that you will not use this plugin for any illegal activity or in any way to damage, abuse, maliciously attack or disrupt the plugin or our network and services. You may not use plugins to harass, insult or threaten others in any way. </p>
 
-    <h2>4. 隐私政策</h2>
+     <h2>3. Intellectual Property</h2>
 
-    <p>我们会收集和使用你的信息，以提供、维护和改进我们的服务。我们的隐私政策描述了我们如何处理你的数据和保护你的隐私。</p>
+     <p>ChatGPT plugin is owned by us and all rights reserved. Except as expressly provided in this Agreement, you may not copy, modify, distribute, sell or lease our Services or Software, nor reverse engineer or attempt to extract the source code of a plug-in. </p>
 
-    <h2>5. 免责声明和责任限制</h2>
+     <h2>4. Privacy Policy</h2>
 
-    <p>我们将尽力确保插件的运行和功能，但我们无法保证插件将始终无误，或者插件和功能将始终可用。我们对因使用或无法使用插件而导致的任何直接、间接、特殊、附带、惩罚性或后果性损害不承担任何责任。</p>
+     <p>We collect and use your information to provide, maintain and improve our services. Our Privacy Policy describes how we process your data and protect your privacy. </p>
 
-    <h2>6. 协议的修改和终止</h2>
+     <h2>5. Disclaimer and Limitation of Liability</h2>
 
-    <p>我们保留随时修改本协议的权利。如果你继续使用插件，则视为你接受新的条款。我们也保留在任何时候，出于任何原因暂停、限制或终止你对插件的访问或使用的权利。</p>
+     <p>While we will do our best to ensure that the Plugin will work and function, we cannot guarantee that the Plugin will always be error-free, or that the Plugin and functionality will always be available. WE SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PLUG-IN. </p>
 
-    <h2>7. 适用法律和争议解决</h2>
+     <h2>6. Modification and Termination of the Agreement</h2>
 
-    <p>本协议受中国法律管辖，任何与此相关的争议应在中国法院解决。</p>
+     <p>We reserve the right to modify this agreement at any time. If you continue to use the plug-in, you will be deemed to accept the new terms. We also reserve the right to suspend, restrict or terminate your access to or use of the plugins at any time and for any reason. </p>
 
-    <h2>8. 联系我们</h2>
+     <h2>7. Applicable law and dispute resolution</h2>
 
-    <p>如果你有任何疑问或意见，请通过以下方式与我们联系：</p>
+     <p>This agreement is governed by Chinese law, and any disputes related thereto shall be resolved in Chinese courts. </p>
 
-    <ul>
-        <li>电子邮件：peiligk535@gmail.com</li>
-    </ul>
+     <h2>8. Contact us</h2>
 
-    <p>我们期待为你提供优质的服务，并一起创建一个积极的、友好的网络环境。</p>
+     <p>If you have any questions or comments, please contact us by:</p>
+
+     <ul>
+         <li>Email: peiligk535@gmail.com</li>
+     </ul>
+
+     <p>We look forward to providing you with quality service and creating a positive and friendly online environment together. </p>
 
 </body>
 </html>
-

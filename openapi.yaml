@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: AMZPRO
-  description: Plugin for amazon product listing , help you write a product description .
+  description: Plugin for AMAZON product listing , help you write a product description .
   version: 'v1'
 servers:
   - url: https://turboooo.com
