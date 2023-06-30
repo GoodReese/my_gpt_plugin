@@ -2,8 +2,8 @@
     "schema_version": "v1",
     "name_for_human": "AMZPRO",
     "name_for_model": "AMAZON_product_desc_generator",
-    "description_for_human": "Plugin for AMAZON product listing , help you write a product description .",
-    "description_for_model": "plugin for AMAZON product listing, you can write a product description in line with AMAZON, which is divided into a title and a five-point advantage description, and list the title and advantages in a table. No matter what language the user enters, you should reply in English.",
+    "description_for_human": "for AMAZON product listing , help you write a product description .",
+    "description_for_model": "for AMAZON product listing, you can write a product description in line with AMAZON, which is divided into a title and a five-point advantage description, and list the title and advantages in a table. No matter what language the user enters, you should reply in English.",
     "auth": {
       "type": "none"
     },
